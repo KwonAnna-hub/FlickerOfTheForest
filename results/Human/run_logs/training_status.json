@@ -1,0 +1,65 @@
+{
+    "Human": {
+        "checkpoints": [
+            {
+                "steps": 6999940,
+                "file_path": "results\\Human\\Human\\Human-6999940.onnx",
+                "reward": 9.996066131762095,
+                "creation_time": 1733558022.6816394,
+                "auxillary_file_paths": [
+                    "results\\Human\\Human\\Human-6999940.pt"
+                ]
+            },
+            {
+                "steps": 7999942,
+                "file_path": "results\\Human\\Human\\Human-7999942.onnx",
+                "reward": 16.229816683133443,
+                "creation_time": 1733558664.385502,
+                "auxillary_file_paths": [
+                    "results\\Human\\Human\\Human-7999942.pt"
+                ]
+            },
+            {
+                "steps": 8999974,
+                "file_path": "results\\Human\\Human\\Human-8999974.onnx",
+                "reward": 30.799239918589592,
+                "creation_time": 1733559305.4159772,
+                "auxillary_file_paths": [
+                    "results\\Human\\Human\\Human-8999974.pt"
+                ]
+            },
+            {
+                "steps": 9999951,
+                "file_path": "results\\Human\\Human\\Human-9999951.onnx",
+                "reward": 26.035799814307172,
+                "creation_time": 1733559943.6970525,
+                "auxillary_file_paths": [
+                    "results\\Human\\Human\\Human-9999951.pt"
+                ]
+            },
+            {
+                "steps": 10000079,
+                "file_path": "results\\Human\\Human\\Human-10000079.onnx",
+                "reward": 26.035799814307172,
+                "creation_time": 1733559943.7473197,
+                "auxillary_file_paths": [
+                    "results\\Human\\Human\\Human-10000079.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000079,
+            "file_path": "results\\Human\\Human.onnx",
+            "reward": 26.035799814307172,
+            "creation_time": 1733559943.7473197,
+            "auxillary_file_paths": [
+                "results\\Human\\Human\\Human-10000079.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "2.0.0+cu118"
+    }
+}
